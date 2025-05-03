@@ -4,14 +4,8 @@ Thyroid disease is a very common problem in India, more than one crore people ar
 
 The main objective of this project is to predict if a person is having compensated hypothyroid, primary hypothyroid, secondary hypothyroid or negative (no thyroid) with the help of Machine Learning. Classification algorithms such as Random Forest, XGBoost and KNN Model have been trained on the thyroid dataset, UCI Machine Learning repository. After hyperparameter tuning XGBoost model has performed well with better accuracy, precision and recall. Application has deployed on Azure with the help of flask framework.
 
-# Webpage Link
 
-## For One-User-Input Prediction
-Microsoft Azure: https://portal.azure.com/#@satiengg.org/resource/subscriptions/04a4a505-5bbe-4561-bea1-55058590607b/resourceGroups/Thyroid/providers/Microsoft.Web/sites/thyroidapp/appServices
 
-## For Bulk Prediction
-
-Microsoft Azure: http://tddbulkprediction-env.eba-uqgwbduj.us-east-2.elasticbeanstalk.com/
 
 
 # Technical Aspects
@@ -87,23 +81,6 @@ The final model is deployed on Heroku using Flask framework.
 #### Data in Cassandra Database.
 ![DataInCassandraDB](https://user-images.githubusercontent.com/72372136/134202316-ef62ddc2-25f9-451e-bd34-be6c3accce4b.JPG)
 
-
-## Project Documents
-
-- HLD: https://github.com/AYUSHSURYAVANSHI/Thyroid-Disease-Detection-Project-/blob/main/Docs/TDD_HLD_V1.0.pdf
-
-- LLD: https://github.com/AYUSHSURYAVANSHI/Thyroid-Disease-Detection-Project-/blob/main/Docs/TDD_LLD_V1.0.pdf
-
-- Architecture: https://github.com/AYUSHSURYAVANSHI/Thyroid-Disease-Detection-Project-/blob/main/Docs/TDD_Architecture_V1.0.pdf
-
-- Wireframe: https://github.com/AYUSHSURYAVANSHI/Thyroid-Disease-Detection-Project-/blob/main/Docs/TDD_Wireframe_V1.0.pdf
-
-- Detailed Project Report: https://github.com/AYUSHSURYAVANSHI/Thyroid-Disease-Detection-Project-/blob/main/Docs/Thyroid%20Disease%20Detection%20(1).pdf
-
-
-# Author
-
-Ayush Suryavanshi: https://www.linkedin.com/in/ayush-suryavanshi/
 
 
 # Help Me Improve
